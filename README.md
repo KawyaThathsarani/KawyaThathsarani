@@ -1,4 +1,4 @@
-Hi, I'm Kawya Thathsarani 👋
+## Hi, I'm Kawya Thathsarani 👋
 
 **Aspiring AI/ML Engineer | Software Engineering Undergraduate | Flutter Learner**
 
@@ -6,7 +6,7 @@ I am a Software Engineering undergraduate at the University of Sri Jayewardenepu
 
 I enjoy building practical applications that solve real-world problems. I am currently developing projects involving food recognition, recommendation systems, automation and data analysis.
 
-**👩‍💻 About Me**
+##**👩‍💻 About Me**
 
 * 🎓 Undergraduate in Software Engineering
 * 🤖 Interested in AI, Machine Learning and Computer Vision
